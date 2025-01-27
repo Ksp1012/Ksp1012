@@ -20,7 +20,7 @@ I’m looking to collaborate on projects related to:
 - **Areas of Interest:** Finance, Business Analytics, Data Analysis, Statistics  
 
 ## 📫 How to Reach Me  
-- LinkedIn: [linkedin.com/in/yourprofile]((https://www.linkedin.com/in/kathan-patel-19628b228/))  
+- LinkedIn: [linkedin.com/in/kathan-patel-19628b228/](https://www.linkedin.com/in/kathan-patel-19628b228/)
 - GitHub: [github.com/Ksp1012](https://github.com/Ksp1012)  
 - Email: Kathan.p1012@gmail.com
 
