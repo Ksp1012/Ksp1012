@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm @Ksp1012[Kathan Patel]
+# Hi there! 👋 I'm Kathan Patel
 
 ## 👀 About Me  
 I’m passionate about **data analysis, finance, statistics, and business analytics**, and I enjoy transforming data into actionable insights to support strategic decision-making.  
